@@ -1,2 +1,2 @@
-# Javascript---Chai-aur-Code
-A code repo of javascript learning from youtube chair aur code
+# Javascript
+A code repo of javascript basics to advance.
